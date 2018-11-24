@@ -17,8 +17,8 @@
         </dependency>
 
 4.添加热部署依赖，修改代码后自动重新加载项目
-
- <dependency>
+       
+       <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
