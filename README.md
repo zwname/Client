@@ -3,7 +3,7 @@
 		
 2、监听器actuator
 
-<dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
